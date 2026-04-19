@@ -2,14 +2,7 @@
 
 A complete PHP/MySQL web application about password hashing and security.
 
----
 
-## Requirements
-
-- XAMPP (PHP 7.4+ and MySQL 5.7+ / MariaDB 10.3+)
-- A modern web browser
-
----
 
 ## Step-by-Step Installation
 
@@ -18,9 +11,6 @@ A complete PHP/MySQL web application about password hashing and security.
 1. Copy the entire `hashguard` folder into your XAMPP `htdocs` directory:
    ```
    C:\xampp\htdocs\hashguard\        ← Windows
-   /Applications/XAMPP/htdocs/hashguard/  ← macOS
-   /opt/lampp/htdocs/hashguard/      ← Linux
-   ```
 
 ### Step 2 — Start XAMPP
 
